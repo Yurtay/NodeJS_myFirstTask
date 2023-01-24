@@ -1,0 +1,19 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "This is simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Igor Yurtaev <yurtay2017@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/yargs": "^17.0.20",
+    "yargs": "^17.6.2"
+  }
+}
